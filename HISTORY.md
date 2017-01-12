@@ -1,5 +1,9 @@
 # createsend-python history
 
+## v4.2.1.1 - 11 Jan, 2017
+
+* Fix six import when running `setup.py`: ([#1](https://github.com/eagarcia-adroll/createsend-python/pull/1))
+
 ## v4.2.1 - 19 Dec, 2016
 
 * Decode JSON API responses using UTF-8: ([#38](https://github.com/campaignmonitor/createsend-python/pull/38))
